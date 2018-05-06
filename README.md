@@ -1,2 +1,2 @@
 # Machine-learning
-Sample Machine learning examples 
+Sample Machine learning for a Movie Recomendation system 
