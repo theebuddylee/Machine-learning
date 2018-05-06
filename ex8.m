@@ -1,31 +1,6 @@
-%% Machine Learning Online Class
-%  Exercise 8 | Anomaly Detection and Collaborative Filtering
-%
-%  Instructions
-%  ------------
-%
-%  This file contains code that helps you get started on the
-%  exercise. You will need to complete the following functions:
-%
-%     estimateGaussian.m
-%     selectThreshold.m
-%     cofiCostFunc.m
-%
-%  For this exercise, you will not need to change any code in this file,
-%  or any other files other than those mentioned above.
-%
 
 %% Initialization
 clear ; close all; clc
-
-%% ================== Part 1: Load Example Dataset  ===================
-%  We start this exercise by using a small dataset that is easy to
-%  visualize.
-%
-%  Our example case consists of 2 network server statistics across
-%  several machines: the latency and throughput of each machine.
-%  This exercise will help us find possibly faulty (or very fast) machines.
-%
 
 fprintf('Visualizing example dataset for outlier detection.\n\n');
 
